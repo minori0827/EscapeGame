@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 22450
+  controlID: 79
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 22414
+  controlID: 53
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 22415
+  controlID: 54
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,8 +396,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0a530000
-      m_LastClickedID: 21258
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 50fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -509,7 +509,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.07862476, y: 0.4825436, z: -0.043546617, w: -0.87124884}
     speed: 2
-    m_Value: {x: -0.078624725, y: 0.48254335, z: -0.043546595, w: -0.8712484}
+    m_Value: {x: -0.07862476, y: 0.4825436, z: -0.043546617, w: -0.87124884}
   m_Size:
     m_Target: 1.9920943
     speed: 2
@@ -576,36 +576,36 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets/BigFurniturePack
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets/BigFurniturePack
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\minor\\\u795E\u96A0\u3057\u63A2\u5075\u5C0F\u524D\u3068\u30AF\u30EA\u30BD\u30D9\u30EA\u30EB\u306E\u539F\u77F3"
+  m_LastProjectPath: "C:\\Users\\minor\\Documents\\GitHub\\EscapeGame\\\u795E\u96A0\u3057\u63A2\u5075\u5C0F\u524D\u3068\u30AF\u30EA\u30BD\u30D9\u30EA\u30EB\u306E\u539F\u77F3"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70780000
-    m_LastClickedID: 30832
-    m_ExpandedIDs: 00000000487800006a78000000ca9a3b
+    m_SelectedIDs: c07b0000
+    m_LastClickedID: 31680
+    m_ExpandedIDs: 0000000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: OneO
-      m_OriginalName: OneO
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 30878
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -619,7 +619,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004678000000ca9a3b
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
