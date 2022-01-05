@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Next : MonoBehaviour
 {/*
-本の与太話を書く
-fungusのraycaster関連のメソッドをrRycastSwitcherのメソッドに変える
+BOneAテキスト 猫穴(ダミー)
+BOneB
+世界観与太話(後でいいけど仮置き)
 */}
