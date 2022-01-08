@@ -15,11 +15,11 @@ C:/Users/minor/Documents/GitHub/EscapeGame/神隠し探偵小前とクリソベ�
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62713
+60139
 Successfully changed project path to: C:/Users/minor/Documents/GitHub/EscapeGame/神隠し探偵小前とクリソベリルの原石
 C:/Users/minor/Documents/GitHub/EscapeGame/神隠し探偵小前とクリソベリルの原石
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 38.54 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 38.02 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.5f1 (8095aa901b9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,176 +35,52 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56072
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001897 seconds.
+Registered in 0.002000 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.04 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 40.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.878 seconds
+- Completed reload, in  0.898 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000828 seconds.
+Registered in 0.000737 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.77 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 40.17 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.873 seconds
+- Completed reload, in  0.899 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2371 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 105.1 MB.
-System memory in use after: 105.3 MB.
-
-Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 2815.
-Total: 2.098900 ms (FindLiveObjects: 0.237100 ms CreateObjectMapping: 0.122100 ms MarkObjects: 1.614500 ms  DeleteObjects: 0.124400 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Start.unity
-  artifactKey: Guid(773f146ff587713479e65cfa966a2620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Start.unity using Guid(773f146ff587713479e65cfa966a2620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ea6fa33d9cf1ad3a4995ffc483a5c2') in 0.006154 seconds
-  Import took 0.009105 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000935 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.688 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.5 MB.
-System memory in use after: 101.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2818.
-Total: 1.965800 ms (FindLiveObjects: 0.224200 ms CreateObjectMapping: 0.092700 ms MarkObjects: 1.592700 ms  DeleteObjects: 0.055200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000836 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.690 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.6 MB.
-System memory in use after: 101.8 MB.
+Unloading 2374 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.3 MB.
+System memory in use after: 105.5 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2821.
-Total: 1.991100 ms (FindLiveObjects: 0.211200 ms CreateObjectMapping: 0.094900 ms MarkObjects: 1.629200 ms  DeleteObjects: 0.054900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 247.987119 seconds.
-  path: Assets/Assets/GameReadyAssets/FurniturePack1/Art/Desk07/Desk07.fbx
-  artifactKey: Guid(de0107e962c842648ba2a4838b207b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/GameReadyAssets/FurniturePack1/Art/Desk07/Desk07.fbx using Guid(de0107e962c842648ba2a4838b207b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e46628e0889928c719bbf7c153ee43d') in 0.177654 seconds
-  Import took 0.181339 seconds .
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 2818.
+Total: 2.351800 ms (FindLiveObjects: 0.223000 ms CreateObjectMapping: 0.096400 ms MarkObjects: 1.891900 ms  DeleteObjects: 0.139400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Assets/GameReadyAssets/FurniturePack1/Art/Desk08/Desk08.fbx
-  artifactKey: Guid(444cbdc55cdd0cc4db9b0033049dfe2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/GameReadyAssets/FurniturePack1/Art/Desk08/Desk08.fbx using Guid(444cbdc55cdd0cc4db9b0033049dfe2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece146521ed112f7469a2234ff9bfc75') in 0.045611 seconds
-  Import took 0.048527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.552974 seconds.
-  path: Assets/Assets/Fungus/Resources/Prefabs/AudioTag.prefab
-  artifactKey: Guid(8a19432eef4e44247949edb78c590f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Fungus/Resources/Prefabs/AudioTag.prefab using Guid(8a19432eef4e44247949edb78c590f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b097e717aa88302aab4084af44663f') in 0.005531 seconds
-  Import took 0.008873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003750 seconds.
-  path: Assets/Assets/FungusExamples/FirstPerson/Prefabs/Button.prefab
-  artifactKey: Guid(ce35e97bd56b1944d8592fa0e400a240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/FungusExamples/FirstPerson/Prefabs/Button.prefab using Guid(ce35e97bd56b1944d8592fa0e400a240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636d47bb8ae6be5603c24f7ef2336203') in 0.045381 seconds
-  Import took 0.048801 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/Assets/Fungus/Resources/Prefabs/Character.prefab
-  artifactKey: Guid(b20518d45890e4be59ba82946f88026c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Fungus/Resources/Prefabs/Character.prefab using Guid(b20518d45890e4be59ba82946f88026c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e2a71399c51dc059ee66d75755bbd1') in 0.004571 seconds
-  Import took 0.007889 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Assets/Fungus/Resources/Prefabs/ClickableSprite.prefab
-  artifactKey: Guid(0e6bcf37a2876432fa58eff8888bf177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Fungus/Resources/Prefabs/ClickableSprite.prefab using Guid(0e6bcf37a2876432fa58eff8888bf177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b72d1296ea7198f744ae3c2a6e277e3') in 0.011584 seconds
-  Import took 0.014777 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Assets/FungusExamples/Playground/Prefabs/Cannon.prefab
-  artifactKey: Guid(5db9b59ebaddb664eac17f8dd52f454a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/FungusExamples/Playground/Prefabs/Cannon.prefab using Guid(5db9b59ebaddb664eac17f8dd52f454a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9732f4a2c4707c95a7c911fa475b61cd') in 0.020804 seconds
-  Import took 0.024105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.149443 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe9057ae9458bee9caec7337bea81ee') in 0.002092 seconds
-  Import took 0.005304 seconds .
+  path: Assets/Assets/Suburban Structure Kit/Textures
+  artifactKey: Guid(d2bdae5aea1dc8e4197b47df86e8defa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Suburban Structure Kit/Textures using Guid(d2bdae5aea1dc8e4197b47df86e8defa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91dcda749b84cac186b7730a4285629d') in 0.005162 seconds
+  Import took 0.008304 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000763 seconds.
+Registered in 0.000859 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -220,49 +96,33 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.677 seconds
+- Completed reload, in  0.723 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.5 MB.
-System memory in use after: 104.7 MB.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.7 MB.
+System memory in use after: 101.9 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2834.
-Total: 1.917100 ms (FindLiveObjects: 0.199100 ms CreateObjectMapping: 0.090600 ms MarkObjects: 1.572800 ms  DeleteObjects: 0.054000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.119417 seconds.
-  path: Assets/Scenes/Main.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c006885aaaa19fc1991e4c701d308b0') in 0.011790 seconds
-  Import took 0.015466 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2821.
+Total: 2.699700 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.320100 ms MarkObjects: 2.004500 ms  DeleteObjects: 0.072800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 70.479770 seconds.
-  path: Assets/Scripts/Start
-  artifactKey: Guid(cc0b0b093a06a9d45bfe012f3e494cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Start using Guid(cc0b0b093a06a9d45bfe012f3e494cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376d0a9aff3df9e3336869fd8baab2d8') in 0.002498 seconds
-  Import took 0.006384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.062450 seconds.
-  path: Assets/Scripts/Main
-  artifactKey: Guid(8dc06ff9e39fc1f45acbe46da084e2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Main using Guid(8dc06ff9e39fc1f45acbe46da084e2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35251a173e031065c89262cc6dcda5b2') in 0.002182 seconds
-  Import took 0.005443 seconds .
+  Time since last request: 2857.867615 seconds.
+  path: Assets/Scripts/Main/BOneA/BOneADoor.cs
+  artifactKey: Guid(316dfac3043b5994cbe8c4cd0bb5f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/BOneADoor.cs using Guid(316dfac3043b5994cbe8c4cd0bb5f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fb1b7e30d06f71b7457edc538a5d4f') in 0.018565 seconds
+  Import took 0.022277 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000764 seconds.
+Registered in 0.000843 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -274,29 +134,59 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.708 seconds
+- Completed reload, in  0.707 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.5 MB.
-System memory in use after: 104.7 MB.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.8 MB.
+System memory in use after: 102.0 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2837.
-Total: 2.130600 ms (FindLiveObjects: 0.201700 ms CreateObjectMapping: 0.081100 ms MarkObjects: 1.789000 ms  DeleteObjects: 0.057800 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2824.
+Total: 2.002800 ms (FindLiveObjects: 0.222100 ms CreateObjectMapping: 0.108800 ms MarkObjects: 1.615100 ms  DeleteObjects: 0.056000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 32.248007 seconds.
-  path: Assets/Scripts/Start/Gamestart.cs
-  artifactKey: Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Start/Gamestart.cs using Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2813659259d89d3d1568d8b9762854') in 0.006389 seconds
-  Import took 0.009617 seconds .
+  Time since last request: 13.723284 seconds.
+  path: Assets/Scripts/Main/BOneA/BOneADoor.cs
+  artifactKey: Guid(316dfac3043b5994cbe8c4cd0bb5f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/BOneADoor.cs using Guid(316dfac3043b5994cbe8c4cd0bb5f926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e1216bc87421ead872b353b6a3b3b2') in 0.004199 seconds
+  Import took 0.007293 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000757 seconds.
+Registered in 0.001109 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.8 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2827.
+Total: 3.518800 ms (FindLiveObjects: 0.287600 ms CreateObjectMapping: 0.333000 ms MarkObjects: 2.822300 ms  DeleteObjects: 0.072800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000778 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -312,21 +202,37 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.686 seconds
+- Completed reload, in  0.698 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.5 MB.
-System memory in use after: 104.7 MB.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.8 MB.
+System memory in use after: 102.0 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2841.
-Total: 2.290500 ms (FindLiveObjects: 0.247900 ms CreateObjectMapping: 0.111000 ms MarkObjects: 1.862200 ms  DeleteObjects: 0.068200 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2830.
+Total: 2.068800 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.105300 ms MarkObjects: 1.650600 ms  DeleteObjects: 0.063000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1365.396328 seconds.
+  path: Assets/Scripts/Main/BOneB
+  artifactKey: Guid(5d33460518843354aadde762dbba70c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB using Guid(5d33460518843354aadde762dbba70c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef1205972ced8e56036afdb63d2f6dc1') in 0.006683 seconds
+  Import took 0.010167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.958207 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBCamera.cs
+  artifactKey: Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBCamera.cs using Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b012f18ee774e6d0a945fafefcce78') in 0.002055 seconds
+  Import took 0.005232 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000853 seconds.
+Registered in 0.000790 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -344,39 +250,39 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 Mono: successfully reloaded assembly
 - Completed reload, in  0.706 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.6 MB.
-System memory in use after: 104.7 MB.
+Unloading 2329 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2844.
-Total: 2.249400 ms (FindLiveObjects: 0.222900 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.847000 ms  DeleteObjects: 0.069000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 93.434108 seconds.
-  path: Assets/Scripts/Start/Gamestart.cs
-  artifactKey: Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Start/Gamestart.cs using Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bc8f30ba73ead7010596d2a71395ad') in 0.004370 seconds
-  Import took 0.007976 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2834.
+Total: 2.255100 ms (FindLiveObjects: 0.199900 ms CreateObjectMapping: 0.090700 ms MarkObjects: 1.883400 ms  DeleteObjects: 0.079700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.907438 seconds.
-  path: Assets/Scripts/Start/GameStart.cs
-  artifactKey: Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Start/GameStart.cs using Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790f53045c61b684bc5f6294a9071355') in 0.001886 seconds
-  Import took 0.005525 seconds .
+  Time since last request: 4.414857 seconds.
+  path: Assets/Scripts/Main/BOneA/BOneACamera.cs
+  artifactKey: Guid(443c2e01586f88844ad6bf00a0d8a31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/BOneACamera.cs using Guid(443c2e01586f88844ad6bf00a0d8a31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1f34935d350b53361e691a3e7218cf') in 0.004474 seconds
+  Import took 0.007484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.245750 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBDoor.cs
+  artifactKey: Guid(f28157bf5ac9ae844a34592fa4df4992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBDoor.cs using Guid(f28157bf5ac9ae844a34592fa4df4992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b05e1db67494019827bc09c2431a706d') in 0.002204 seconds
+  Import took 0.005428 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000782 seconds.
+Registered in 0.000824 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -388,16 +294,426 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.741 seconds
+- Completed reload, in  0.690 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2330 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2838.
+Total: 2.075300 ms (FindLiveObjects: 0.259100 ms CreateObjectMapping: 0.122800 ms MarkObjects: 1.628500 ms  DeleteObjects: 0.063900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.781425 seconds.
+  path: Assets/Scripts/Main/BOneA/NewBehaviourScript.cs
+  artifactKey: Guid(f35deacc33f08be4e9b441b679326b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/NewBehaviourScript.cs using Guid(f35deacc33f08be4e9b441b679326b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9b6f9cd9e46f2f1f5b8e349082323d') in 0.005157 seconds
+  Import took 0.008765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Scripts/Main/BOneA/NewBehaviourScript.cs
+  artifactKey: Guid(f35deacc33f08be4e9b441b679326b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/NewBehaviourScript.cs using Guid(f35deacc33f08be4e9b441b679326b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9b6f9cd9e46f2f1f5b8e349082323d') in 0.002557 seconds
+  Import took 0.005902 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001449 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.691 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2330 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2841.
+Total: 1.899800 ms (FindLiveObjects: 0.184300 ms CreateObjectMapping: 0.076000 ms MarkObjects: 1.583600 ms  DeleteObjects: 0.055200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.907213 seconds.
+  path: Assets/Scripts/Main/BOneA/NekoAnaBOneAB.cs
+  artifactKey: Guid(d0dec86da4e661a4c9b048f3fffa8785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/NekoAnaBOneAB.cs using Guid(d0dec86da4e661a4c9b048f3fffa8785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce01514a838ed2910c6696da4db381df') in 0.005840 seconds
+  Import took 0.009444 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.6 MB.
-System memory in use after: 104.8 MB.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2847.
-Total: 2.099700 ms (FindLiveObjects: 0.187400 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.776100 ms  DeleteObjects: 0.051600 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2845.
+Total: 2.146300 ms (FindLiveObjects: 0.230700 ms CreateObjectMapping: 0.110000 ms MarkObjects: 1.745500 ms  DeleteObjects: 0.059200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.745697 seconds.
+  path: Assets/Scripts/Main/BOneA/NekoAnaBOneAB.cs
+  artifactKey: Guid(d0dec86da4e661a4c9b048f3fffa8785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/NekoAnaBOneAB.cs using Guid(d0dec86da4e661a4c9b048f3fffa8785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a915cfcb54c9c41e42c2558fc78ee1b8') in 0.006920 seconds
+  Import took 0.011920 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.695 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2848.
+Total: 1.968200 ms (FindLiveObjects: 0.192000 ms CreateObjectMapping: 0.082700 ms MarkObjects: 1.637300 ms  DeleteObjects: 0.055300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.592408 seconds.
+  path: Assets/Scripts/Main/BOneA/NekoAnaBOneAB.cs
+  artifactKey: Guid(d0dec86da4e661a4c9b048f3fffa8785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneA/NekoAnaBOneAB.cs using Guid(d0dec86da4e661a4c9b048f3fffa8785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aece3c2ab6b5bfdd2aebce833d0074fc') in 0.004145 seconds
+  Import took 0.007099 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000849 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 2.035300 ms (FindLiveObjects: 0.229200 ms CreateObjectMapping: 0.099200 ms MarkObjects: 1.649500 ms  DeleteObjects: 0.056500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 461.047222 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBCamera.cs
+  artifactKey: Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBCamera.cs using Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeebb9e3cb29aaa98c7c79a0885b960b') in 0.005884 seconds
+  Import took 0.009699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBCamera.cs
+  artifactKey: Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBCamera.cs using Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeebb9e3cb29aaa98c7c79a0885b960b') in 0.001755 seconds
+  Import took 0.005908 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000830 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.697 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2854.
+Total: 2.008200 ms (FindLiveObjects: 0.210000 ms CreateObjectMapping: 0.087100 ms MarkObjects: 1.646700 ms  DeleteObjects: 0.063200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.245002 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBCamera.cs
+  artifactKey: Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBCamera.cs using Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa9cd22ae42ac1d19f2411fbe660e9c') in 0.004630 seconds
+  Import took 0.007711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2857.
+Total: 2.199900 ms (FindLiveObjects: 0.242900 ms CreateObjectMapping: 0.103400 ms MarkObjects: 1.795800 ms  DeleteObjects: 0.057000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.266006 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBCamera.cs
+  artifactKey: Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBCamera.cs using Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da1317bc8e2d0501a36fd07a01cf623') in 0.004181 seconds
+  Import took 0.007140 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2860.
+Total: 2.950900 ms (FindLiveObjects: 0.596900 ms CreateObjectMapping: 0.288000 ms MarkObjects: 2.003500 ms  DeleteObjects: 0.061100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2863.
+Total: 2.187800 ms (FindLiveObjects: 0.230100 ms CreateObjectMapping: 0.096800 ms MarkObjects: 1.799700 ms  DeleteObjects: 0.060300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.877134 seconds.
+  path: Assets/Scripts/Main/BOneB/BOneBCamera.cs
+  artifactKey: Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/BOneB/BOneBCamera.cs using Guid(9b071c153d661444284b3861e7b3ec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3363febfb9a023382bc88ac6cec61c9') in 0.004097 seconds
+  Import took 0.007048 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2866.
+Total: 2.066200 ms (FindLiveObjects: 0.206400 ms CreateObjectMapping: 0.104000 ms MarkObjects: 1.697600 ms  DeleteObjects: 0.057200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2869.
+Total: 2.176600 ms (FindLiveObjects: 0.221100 ms CreateObjectMapping: 0.093800 ms MarkObjects: 1.795300 ms  DeleteObjects: 0.065200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2872.
+Total: 2.842900 ms (FindLiveObjects: 0.355100 ms CreateObjectMapping: 0.236500 ms MarkObjects: 2.186300 ms  DeleteObjects: 0.063400 ms)
 
 ========================================================================
 Received Prepare
@@ -406,7 +722,7 @@ Registered in 0.000779 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -418,33 +734,33 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.681 seconds
+- Completed reload, in  0.905 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.6 MB.
-System memory in use after: 104.8 MB.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2850.
-Total: 2.073400 ms (FindLiveObjects: 0.233300 ms CreateObjectMapping: 0.105000 ms MarkObjects: 1.667800 ms  DeleteObjects: 0.066500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2875.
+Total: 2.473300 ms (FindLiveObjects: 0.268700 ms CreateObjectMapping: 0.093300 ms MarkObjects: 2.041100 ms  DeleteObjects: 0.068600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 26.401568 seconds.
-  path: Assets/Scripts/Start/GameStart.cs
-  artifactKey: Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Start/GameStart.cs using Guid(0b917c2efc299fb489d4926058a2d132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9478bc94a960d8105e2cfa03f75f7a6e') in 0.004093 seconds
-  Import took 0.007078 seconds .
+  Time since last request: 445.978779 seconds.
+  path: Assets/Scripts/Main/OneO/Exit.cs
+  artifactKey: Guid(41b923a9187a30845acb3314cab8da1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Main/OneO/Exit.cs using Guid(41b923a9187a30845acb3314cab8da1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33090795104661459c9dde6955aa9b08') in 0.005855 seconds
+  Import took 0.009996 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000760 seconds.
+Registered in 0.000975 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -456,29 +772,21 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.683 seconds
+- Completed reload, in  0.710 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.6 MB.
-System memory in use after: 104.8 MB.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2853.
-Total: 2.492100 ms (FindLiveObjects: 0.244700 ms CreateObjectMapping: 0.103600 ms MarkObjects: 2.069600 ms  DeleteObjects: 0.073100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 111.873543 seconds.
-  path: Assets/Scenes/Start.unity
-  artifactKey: Guid(773f146ff587713479e65cfa966a2620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Start.unity using Guid(773f146ff587713479e65cfa966a2620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04cf4bfd90b6ee84ddff9c8d9fead00') in 0.006232 seconds
-  Import took 0.009958 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2878.
+Total: 2.088300 ms (FindLiveObjects: 0.241200 ms CreateObjectMapping: 0.108300 ms MarkObjects: 1.677800 ms  DeleteObjects: 0.060200 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000835 seconds.
+Registered in 0.000793 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -494,15 +802,45 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 [C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.686 seconds
+- Completed reload, in  0.724 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 104.6 MB.
-System memory in use after: 104.8 MB.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2856.
-Total: 1.989200 ms (FindLiveObjects: 0.189200 ms CreateObjectMapping: 0.081000 ms MarkObjects: 1.662600 ms  DeleteObjects: 0.055400 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2881.
+Total: 3.102000 ms (FindLiveObjects: 0.438500 ms CreateObjectMapping: 0.212400 ms MarkObjects: 2.173300 ms  DeleteObjects: 0.274500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001278 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/minor/神隠し探偵小前とクリソベリルの原石/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2884.
+Total: 3.191000 ms (FindLiveObjects: 0.257200 ms CreateObjectMapping: 0.158900 ms MarkObjects: 2.715300 ms  DeleteObjects: 0.058300 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
