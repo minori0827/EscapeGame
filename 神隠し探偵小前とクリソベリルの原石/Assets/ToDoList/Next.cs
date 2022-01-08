@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Next : MonoBehaviour
 {/*
-BOneAテキスト 猫穴(ダミー)
-BOneB
+BOneAテキスト(後でもいい) 猫穴(ダミー)
+BOneBドア、宝石ギミック
 世界観与太話(後でいいけど仮置き)
 */}
