@@ -473,7 +473,7 @@ public class TurnPuzzle25 : MonoBehaviour
     
     public void Open()
     {
-        this.transform.localPosition = new Vector3(0,-0.35f,15f);
-        Cover.transform.localPosition = new Vector3(0,-0.35f,15f);
+        this.transform.localPosition = new Vector3(0,-14.5f,0);
+        Cover.transform.localPosition = new Vector3(0,-14.5f,0);
     }
 }
