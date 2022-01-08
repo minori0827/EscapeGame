@@ -5,17 +5,19 @@ using Fungus;
 
 public class BOneADoor : DoorNekoAna
 {
-    public GameObject jemRed;
-    public GameObject jemBlue;
+    public GameObject gemRed;
+    public GameObject gemBlue;
     public bool BOneAFlag = false;
+    public List<GameObject> BOneBDoors = new List<GameObject>();
     
     public void Onthis()
     {
         if (BOneAFlag)
         {
             RoomChange();
+            DoorOnOff();
         }
-        else if (jemRed.activeSelf == false && jemBlue.activeSelf == false)
+        else if (gemRed.activeSelf == false && gemBlue.activeSelf == false)
         {
             Flowchart.BroadcastFungusMessage("BOneADoorOpen");
             BOneAFlag = true;
@@ -23,6 +25,21 @@ public class BOneADoor : DoorNekoAna
         else
         {
             Flowchart.BroadcastFungusMessage("BOneADoorClose");
+        }
+    }
+    
+    public void DoorOnOff()
+    {
+        foreach (GameObject BOneBDoor in BOneBDoors)
+        {
+            if (BOneBDoor.activeSelf == false)
+            {
+                BOneBDoor.SetActive(true);
+            }
+            else
+            {
+                BOneBDoor.SetActive(false);
+            }
         }
     }
 }
